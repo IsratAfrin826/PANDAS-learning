@@ -58,7 +58,13 @@ create a DataFrame and has the following parameters :
 
 ### 1. Create a Pandas DataFrame
 
-     To create a DataFrame in pandas , use the pandas.DataFrame() method.
+       To create a DataFrame in pandas , use the pandas.DataFrame() method.
 
         Example : Demo1
+
+### 2. Access a group of row or columns in a Pandas DataFrame
+
+       The dataframe.loc is used in Pandas to access a group of rows or columns in a DataFrame.
+
+           Example : Demo2
  
