@@ -56,6 +56,8 @@ create a DataFrame and has the following parameters :
 
        copy    : To copy the input data
 
+### PANDAS - Create a DataFrame
+
 ### 1. Create a Pandas DataFrame
 
        To create a DataFrame in pandas , use the pandas.DataFrame() method.
