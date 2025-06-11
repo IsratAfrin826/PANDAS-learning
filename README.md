@@ -55,4 +55,10 @@ create a DataFrame and has the following parameters :
        dtype   : It is the datatype and only a single type is allowed.
 
        copy    : To copy the input data
+
+### 1. Create a Pandas DataFrame
+
+     To create a DataFrame in pandas , use the pandas.DataFrame() method.
+
+        Example : Demo1
  
