@@ -39,3 +39,20 @@ The following are the features of the Pandas Library :
       Clean the Data completely
 
       Handle Duplicates
+
+### What is a PANDAS DataFrame ? How to Create ?
+
+The Pandas DataFrame is a two-dimensional , tabular data , table with rows and columns. The **DataFrame()** method is used to
+
+create a DataFrame and has the following parameters :
+
+       data    : The data to be stored in the Pandas DataFrame
+
+       index   : The index values to be provided for the resultant frame.
+
+       columns : Set the column labels for the resultant frame if data does not mention before
+
+       dtype   : It is the datatype and only a single type is allowed.
+
+       copy    : To copy the input data
+ 
