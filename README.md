@@ -69,4 +69,12 @@ create a DataFrame and has the following parameters :
        The dataframe.loc is used in Pandas to access a group of rows or columns in a DataFrame.
 
            Example : Demo2
+
+### 3. Access a group of rows or columns by integer positions in a Pandas DataFrame
+
+        The dataframe.iloc is used to access a group of rows or columns by integers. We have also 
+
+        set columns and indexes.
+
+             Example : Demo3
  
