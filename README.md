@@ -77,4 +77,10 @@ create a DataFrame and has the following parameters :
         set columns and indexes.
 
              Example : Demo3
+
+### 4. Name your indexes in a Pandas DataFrame
+
+       The index argument is used to set and name your own indexes in a DataFrame. 
+
+              Example : Demo4
  
