@@ -83,4 +83,10 @@ create a DataFrame and has the following parameters :
        The index argument is used to set and name your own indexes in a DataFrame. 
 
               Example : Demo4
+
+### 5. Iterate a Pandas DataFrame
+
+       To iterate a DataFrame and display the column names , use the for loop as in the below 
+
+             Example : Demo5
  
