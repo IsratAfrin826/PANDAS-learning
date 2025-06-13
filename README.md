@@ -89,4 +89,32 @@ create a DataFrame and has the following parameters :
        To iterate a DataFrame and display the column names , use the for loop as in the below 
 
              Example : Demo5
+
+### DATAFRAME - Attributes and Methods
+
+The Pandas DataFrame is a Two-dimensional , tabular data , that uses the DataFrame() method to create a 
+
+DataFrame. It also uses different built-in attributes and methods for basic functionalities. 
+
+        1. dtypes : Return the dtypes in the DataFrame
+
+        2. ndim   : Return the number of dimensions of the DataFrame
+
+        3. size   : Return the number of elements in the DataFrame
+
+        4. shape  : Return the dimensionality of the DataFrame in the form of a tuple.
+
+        5. index  : Return the index of the DataFrame
+
+        6. T      : Transpose the rows and columns
+
+        7. head() : Return the first n rows.
+
+        8. tail() : Return the last n rows.
+
+### 1. Pandas DataFrame - DTYPES
+
+       The pandas.DataFrame.dtypes is used to return the dtypes in the DataFrame.
+
+            Example : Demo6(dtypes)
  
