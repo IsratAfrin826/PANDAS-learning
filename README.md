@@ -84,7 +84,7 @@ create a DataFrame and has the following parameters :
 
               Example : Demo4
 
-### 5. Iterate a Pandas DataFrame
+### 5. Iterate a Pandas DataFrame to display the cilumn names
 
        To iterate a DataFrame and display the column names , use the for loop as in the below 
 
