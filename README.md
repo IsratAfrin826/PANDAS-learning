@@ -117,4 +117,12 @@ DataFrame. It also uses different built-in attributes and methods for basic func
        The pandas.DataFrame.dtypes is used to return the dtypes in the DataFrame.
 
             Example : Demo6(dtypes)
+
+### 2. Pandas DataFrame - NDIM
+
+       The pandas.DataFrame.ndim is used to return the number of dimensions of the
+
+       DataFrame.
+
+            Example : Demo7(ndim)
  
