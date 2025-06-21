@@ -125,4 +125,10 @@ DataFrame. It also uses different built-in attributes and methods for basic func
        DataFrame.
 
             Example : Demo7(ndim)
+
+### 3. Pandas DataFrame - SIZE
+
+       The pandas.DataFrame.size is used to return the number of elements in the DataFrame.
+
+             Example : Demo8(size)  
  
