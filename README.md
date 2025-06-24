@@ -161,3 +161,11 @@ DataFrame. It also uses different built-in attributes and methods for basic func
        The pandas.DataFrame.tail() is used to return the last n rows
 
                  Example : Demo13(tail)
+
+### JOIN PANDAS DATAFRAME
+
+      In Python, we can easily join Pandas DataFrames using the join() method.This will join the 
+
+      columns of the two different DataFrames.
+
+                 Example : Demo14(Join DataFrame)
