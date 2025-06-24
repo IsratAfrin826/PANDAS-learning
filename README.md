@@ -169,3 +169,11 @@ DataFrame. It also uses different built-in attributes and methods for basic func
       columns of the two different DataFrames.
 
                  Example : Demo14(Join DataFrame)
+
+### CONCATENATE PANDAS DATAFRAME
+
+    In this lesson, learn to concatenate the Pandas DataFrames in Python using the concat()
+
+    method.This will concatenate the content of the DataFrames
+
+                Example : Demo15(concatenate)
