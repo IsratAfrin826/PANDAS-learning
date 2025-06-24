@@ -137,4 +137,10 @@ DataFrame. It also uses different built-in attributes and methods for basic func
        The pandas.DataFrame.shape is used to return the dimensionality of the DataFrame in the form of a tupple
 
                Example : Demo9(shape)
+
+### 5. Pands DataFrame - INDEX
+
+       The pandas.DataFrame.index is used to return the index of the DataFrame
+
+                Example : Demo10(index)
  
