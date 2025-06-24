@@ -143,4 +143,9 @@ DataFrame. It also uses different built-in attributes and methods for basic func
        The pandas.DataFrame.index is used to return the index of the DataFrame
 
                 Example : Demo10(index)
- 
+
+### 6. Pandas DataFrame - T
+
+       The pandas.DataFrame.T is used to Transpose the rows and columns
+
+                 Example : Demo11(T)
