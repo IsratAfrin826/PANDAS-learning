@@ -131,4 +131,10 @@ DataFrame. It also uses different built-in attributes and methods for basic func
        The pandas.DataFrame.size is used to return the number of elements in the DataFrame.
 
              Example : Demo8(size)  
+
+### 4. Pandas DataFrame - SHAPE
+
+       The pandas.DataFrame.shape is used to return the dimensionality of the DataFrame in the form of a tupple
+
+               Example : Demo9(shape)
  
