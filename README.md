@@ -155,3 +155,9 @@ DataFrame. It also uses different built-in attributes and methods for basic func
        The pandas.DataFrame.head() is used to return the first n rows
 
                  Example : Demo12(head)
+
+### 8. Pandas DataFrame - TAIL()
+
+       The pandas.DataFrame.tail() is used to return the last n rows
+
+                 Example : Demo13(tail)
