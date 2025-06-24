@@ -149,3 +149,9 @@ DataFrame. It also uses different built-in attributes and methods for basic func
        The pandas.DataFrame.T is used to Transpose the rows and columns
 
                  Example : Demo11(T)
+
+### 7. Pandas DataFrame - HEAD()
+
+       The pandas.DataFrame.head() is used to return the first n rows
+
+                 Example : Demo12(head)
