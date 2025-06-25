@@ -205,3 +205,11 @@ To create a series in python, we use the Series() method.
 The [] is used to access a value.Set the index of the value you want to display inside[] :
 
                 Example : Demo17(Access a value from a pandas series)
+
+**Name your indexes in a pandas series**
+
+The index argument is used to set and name your own indexes in a Series, the labels can be 
+
+set accordingly.
+
+                  Example : Demo18(Name your indexes)
