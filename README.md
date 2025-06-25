@@ -193,3 +193,9 @@ DataFrame. It also uses different built-in attributes and methods for basic func
                  4. name  : Set the series name with the name parameter.
 
                  5. copy  : To copy the input data.
+
+**Create a Pandas Series**
+
+To create a series in python, we use the Series() method.
+
+                Example : Demo16(create a pandas series)
