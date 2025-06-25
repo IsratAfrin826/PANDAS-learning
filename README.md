@@ -199,3 +199,9 @@ DataFrame. It also uses different built-in attributes and methods for basic func
 To create a series in python, we use the Series() method.
 
                 Example : Demo16(create a pandas series)
+
+**Access a value from a Pandas Series**
+
+The [] is used to access a value.Set the index of the value you want to display inside[] :
+
+                Example : Demo17(Access a value from a pandas series)
