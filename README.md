@@ -213,3 +213,7 @@ The index argument is used to set and name your own indexes in a Series, the lab
 set accordingly.
 
                   Example : Demo18(Name your indexes)
+
+**Access a value from a pandas series with labels**
+
+                  Example : Demo19(Access a value with labels)
