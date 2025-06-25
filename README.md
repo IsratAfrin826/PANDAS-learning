@@ -177,3 +177,19 @@ DataFrame. It also uses different built-in attributes and methods for basic func
     This will concatenate the content of the DataFrames
 
                 Example : Demo15(concatenate)
+
+### What is a Series in Pandas ? How to create ?
+
+     Series in Pandas is a one-dimensional array,like a column in a table. It is a labeled array that
+
+     can hold data of any type. The Series() method is used for this and has the following parameters :
+
+                 1. data  : The data to be stored in the Pandas Series.
+
+                 2. index : The index values should have the same length as the data.
+
+                 3. dtype : It is the datatype for the output Series.
+
+                 4. name  : Set the series name with the name parameter.
+
+                 5. copy  : To copy the input data.
